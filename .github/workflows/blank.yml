@@ -11,4 +11,4 @@ jobs:
         FIRST_NAME: Rishika
         LAST_NAME: BAJAJ
       run: |
-        echo $MY_VAR $FIRST_NAME $MIDDLE_NAME $LAST_NAME.
+        echo $MY_VAR $FIRST_NAME $LAST_NAME.
